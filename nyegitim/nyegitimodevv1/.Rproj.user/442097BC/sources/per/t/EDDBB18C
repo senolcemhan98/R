@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590517564572.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EDDBB18C",
+    "lastKnownWriteTime" : 7594029366723243369,
+    "last_content_update" : 1590517564572,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CADBBA15",
+        "caption" : "veri",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=veri&cache_key=CADBBA15",
+        "displayedObservations" : 135720,
+        "environment" : "",
+        "object" : "veri",
+        "preview" : 0,
+        "totalObservations" : 135720,
+        "variables" : 17
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
