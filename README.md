@@ -1,5 +1,5 @@
 # R
-R calismalarim bulunmaktadir.
+R projelerim bulunmaktadir.
 
 KTÜ/İstatistik ve Bilgisayar Bilimleri Bölümü - İstatistiksel Yazilimlar Dersi ödev calismalarimdir.
 
